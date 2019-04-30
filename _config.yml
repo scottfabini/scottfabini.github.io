@@ -1,0 +1,7 @@
+# General Jeckyll Config
+name: Scott Fabini's Github Pages
+url: scottfabini.github.io
+lsi: false
+
+# Build settings
+theme: minima
